@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.home{
+  /* background-image: url(https://img.freepik.com/free-vector/cute-weather-pattern-background-wallpaper-weather-vector-illustration_53876-151188.jpg); */
+  background-size: cover;
+  background-position: center;
+}
